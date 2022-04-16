@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VideoWorkbench", "Pattern Analyzer\Pattern Analyzer.vcxproj", "{D05A6586-EC1E-4309-BD6F-D92B9030C995}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MediaWorker", "MediaWorker\MediaWorker.vcxproj", "{749D354F-C8D8-41E7-A8AE-C839BD7DE3D1}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tbm.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Pattern\u0020Analyzer\\Pattern\u0020Analyzer.vcxproj
+		SccProjectName1 = Pattern\u0020Analyzer
+		SccLocalPath1 = Pattern\u0020Analyzer
+		SccProjectUniqueName2 = MediaWorker\\MediaWorker.vcxproj
+		SccProjectName2 = MediaWorker
+		SccLocalPath2 = MediaWorker
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D05A6586-EC1E-4309-BD6F-D92B9030C995}.Debug|Mixed Platforms.ActiveCfg = Debug|x64
+		{D05A6586-EC1E-4309-BD6F-D92B9030C995}.Debug|Mixed Platforms.Build.0 = Debug|x64
+		{D05A6586-EC1E-4309-BD6F-D92B9030C995}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D05A6586-EC1E-4309-BD6F-D92B9030C995}.Debug|Win32.Build.0 = Debug|Win32
+		{D05A6586-EC1E-4309-BD6F-D92B9030C995}.Debug|x64.ActiveCfg = Debug|x64
+		{D05A6586-EC1E-4309-BD6F-D92B9030C995}.Debug|x64.Build.0 = Debug|x64
+		{D05A6586-EC1E-4309-BD6F-D92B9030C995}.Release|Mixed Platforms.ActiveCfg = Release|x64
+		{D05A6586-EC1E-4309-BD6F-D92B9030C995}.Release|Mixed Platforms.Build.0 = Release|x64
+		{D05A6586-EC1E-4309-BD6F-D92B9030C995}.Release|Win32.ActiveCfg = Release|Win32
+		{D05A6586-EC1E-4309-BD6F-D92B9030C995}.Release|Win32.Build.0 = Release|Win32
+		{D05A6586-EC1E-4309-BD6F-D92B9030C995}.Release|x64.ActiveCfg = Release|x64
+		{D05A6586-EC1E-4309-BD6F-D92B9030C995}.Release|x64.Build.0 = Release|x64
+		{749D354F-C8D8-41E7-A8AE-C839BD7DE3D1}.Debug|Mixed Platforms.ActiveCfg = Debug|x64
+		{749D354F-C8D8-41E7-A8AE-C839BD7DE3D1}.Debug|Mixed Platforms.Build.0 = Debug|x64
+		{749D354F-C8D8-41E7-A8AE-C839BD7DE3D1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{749D354F-C8D8-41E7-A8AE-C839BD7DE3D1}.Debug|Win32.Build.0 = Debug|Win32
+		{749D354F-C8D8-41E7-A8AE-C839BD7DE3D1}.Debug|x64.ActiveCfg = Debug|x64
+		{749D354F-C8D8-41E7-A8AE-C839BD7DE3D1}.Debug|x64.Build.0 = Debug|x64
+		{749D354F-C8D8-41E7-A8AE-C839BD7DE3D1}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{749D354F-C8D8-41E7-A8AE-C839BD7DE3D1}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{749D354F-C8D8-41E7-A8AE-C839BD7DE3D1}.Release|Win32.ActiveCfg = Release|Win32
+		{749D354F-C8D8-41E7-A8AE-C839BD7DE3D1}.Release|Win32.Build.0 = Release|Win32
+		{749D354F-C8D8-41E7-A8AE-C839BD7DE3D1}.Release|x64.ActiveCfg = Release|x64
+		{749D354F-C8D8-41E7-A8AE-C839BD7DE3D1}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
